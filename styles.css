@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(54, 68, 110);
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+}
+
+form {
+    background-color: peachpuff;
+    margin: 15%;
+    margin-top: 25%;
+}
+
+#go {
+    font-family: Impact, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
